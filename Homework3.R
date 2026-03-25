@@ -1,7 +1,7 @@
 #R script for Exercise 3 - Geography 411
-Gianna Hy
-Geo411 Homework 3
-
+#Gianna Hy
+#geo411 Homework 3
+#Test the hypothesis that there is an association between life expectancy and per capita gross domestic product for the countries of the world
 #Read the data file <3>
 wdt <- read.csv("WorldDataTable.csv")
 wdt[1:10,]
