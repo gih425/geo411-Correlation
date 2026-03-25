@@ -1,4 +1,6 @@
 #R script for Exercise 3 - Geography 411
+Gianna Hy
+Geo411 Homework 3
 
 #Read the data file <3>
 wdt <- read.csv("WorldDataTable.csv")
